@@ -8,4 +8,4 @@ Areas if interest: Swift projects related to macOS or iOS.
 
 Experienced in Zero Trust/Mobile Device Management, AD/LDAP, Passkeys/oAuth/SAML/ODIC/SCIM, Swift/Bash/Python/SQL, REST/Events API's, SIEM/BI, Compliance with Fed RAMP/STIG's
 
-You can find my LinkedIn here: https://www.linkedin.com/in/scottsecrest/
+LinkedIn: https://www.linkedin.com/in/scottsecrest/
